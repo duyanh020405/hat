@@ -1,0 +1,188 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+
+header{
+   background-color: pink;
+   height: 885px; 
+}
+.logo{
+   height: 30px;
+   width: 30px;
+}
+strong{
+   position: relative;
+   bottom: 8px;
+}
+a{
+   color: black;
+   text-decoration: none;
+}
+.mot{
+   display: flex;
+   flex-direction: row;
+   gap: 200px;
+}
+.in{
+   text-align: center;
+   display: flex;
+   flex-direction: row;
+   gap: 40px;
+
+}
+a:hover{
+   color: aliceblue;
+}
+
+.anh{
+   display: flex;
+   gap: 300px;
+   flex-direction: row;
+}
+.tieude{
+   font-size: xx-large;
+}
+.int{
+   top: 200px;
+   position: relative;
+   text-align: center;
+   right: 100px;
+}
+.down{
+   border:none;
+   position: relative;
+   height: 60px;
+   width: 200px;
+   text-align: center;
+}
+.del{
+   margin-left: 50px;
+   display: flex;
+   flex-direction: column;
+}
+.all{
+   margin-top: 50px;
+   display: flex;
+   flex-direction: row;
+   gap: 300px;
+}
+.icon{
+   margin-top: 20px;
+   display: flex;
+   flex-direction: row;
+   gap: 20px;
+
+}
+.inf{
+   display: flex;
+   gap: 10px;
+   flex-direction:column;
+}
+.ungdung{
+   display: flex;
+   flex-direction:row;
+}
+.cach{
+   display: flex;
+   flex-direction:row;
+   gap: 100px;
+   margin-top: 50px;
+   margin-left: 30px;
+}
+.cach2{
+   display: flex;
+   flex-direction:row;
+   gap: 100px;
+   margin-top: 50px;
+   margin-left:250px ;
+}
+.email{
+   margin-top: 500px;
+   position: relative;
+   height: 200px;
+   background-color: rgb(184, 241, 222);
+   display: flex;
+   flex-direction: row;gap: 150px;
+
+}
+.rightemail{
+   margin-top: 100px;
+   margin-left:150px;
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+}
+.inputemail{
+   margin-top: 100px;
+   position: relative;
+  width: 400px;
+   height: 40px;
+}
+.lui{
+   position: relative;
+   right: 132px;
+}
+.foot{
+   margin-top: 100px;
+   display: flex;
+   flex-direction: column;
+   gap: 100px;
+   background-color: rgb(88, 88, 156);
+   height: 400px;
+}
+.footright{
+   margin-top: 120px;
+   margin-left: 100px;
+   display: flex;
+   flex-direction: row;
+   gap: 400px;
+}
+.over{
+   display: flex;
+   flex-direction: row;
+   gap: 30px;
+}
+.cc{
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+
+}
+.cc2{
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+}
+.imgicon{
+   position: relative;
+   height: 30px;
+   width: 30px;
+   border-top-right-radius:22px ;
+   border-bottom-left-radius:22px ;
+   border-top-left-radius:22px ;
+   border-bottom-right-radius:22px ;
+}
+.work{
+   margin-top: 100px;
+   text-align: center;
+}
+.chose{
+   margin-top: 80px;
+   display: flex;
+   flex-direction: row;
+   gap: 30px;
+   position: relative;
+   margin-left: 50px;
+   text-decoration: none;
+}
+.imgwork{
+   position: relative;
+   width: 300px;
+   height: 200px;
+}
+.nearlast{
+   margin-top: 100px;
+}
